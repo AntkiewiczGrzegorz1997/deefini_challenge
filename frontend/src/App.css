@@ -1,0 +1,17 @@
+.whole-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.heading-container {
+  align-items: start;
+  margin-top: -7vh;
+}
+
+h2 {
+  font-size: 27px;
+  color: #02d49b;
+}
