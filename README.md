@@ -32,7 +32,7 @@ npm i
 To start run:
 
 ```bash
-node index.js
+nodemon index.js
 ```
 
 3. Start the **frontend** as given in the instructions:
@@ -56,6 +56,6 @@ npm start
 
 I really enjoyed working on this coding challenge. Provided more time I would have definitely
 
-- added tests.
+- added unit, integration and e2e tests.
 - improved the design.
 - dockerized the app and used docker compose to make it easy to start
