@@ -2,7 +2,7 @@
 
 Please follow the intstructions step by step in the right order:
 
-To start the app unzip the repository, open terminal in the location of the unzipped repository and:
+To start the app unzip (or clone) the repository, open terminal in the location of the unzipped repository and:
 
 1. Inside the .env file that is in the **server** folder:
 
